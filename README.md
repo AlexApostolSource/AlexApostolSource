@@ -1,15 +1,18 @@
 # Hi, I'm Alex Apostol 👋
 
-iOS Developer since 2019 | Swift, Objective-C, React & TypeScript Enthusiast
+iOS Developer since 2019
+Professional Swift, UIKit, SwifUI, Objective-C, Concurrency and Reactive programming.
+Love playing with TypeScript, NodeJS, React.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm passionate about building seamless mobile experiences and exploring the latest in front-end technology. I thrive on architecting robust, maintainable solutions—whether that's crafting elegant iOS apps or developing scalable web back-ends.
+I'm passionate about studying and applying the best practices in software development. 
+Enforcing robust, maintainable, scalable architecting solutions and crafting elegant iOS apps.
 
-- 🛠 **Main Tools:** Swift, Objective-C, React, TypeScript
-- 🎯 **Focus:** Modular architectures, clean code, and user-centric design
+- 🛠 **Main Developing knowledge area:** Swift, UIKit, SwifUI, Objective-C.
+- 🎯 **Focus:** Clean architecture, clean code, GOF design principles.
 - 📱 **iOS Dev since:** 2019
 
 ---
@@ -31,4 +34,3 @@ I'm passionate about building seamless mobile experiences and exploring the late
 
 ---
 
-> *Fun fact: I love building seamless mobile experiences and exploring new front-end technologies!*
