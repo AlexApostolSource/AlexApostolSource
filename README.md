@@ -11,7 +11,7 @@ Love playing with TypeScript, NodeJS, React.
 I'm passionate about studying and applying the best practices in software development. 
 Enforcing robust, maintainable, scalable architecting solutions and crafting elegant iOS apps.
 
-- 🛠 **Main Developing knowledge area:** Swift, UIKit, SwifUI, Objective-C.
+- 🛠 **Main software developing knowledge area:** Swift, UIKit, SwifUI, Objective-C.
 - 🎯 **Focus:** Clean architecture, clean code, GOF design principles.
 - 📱 **iOS Dev since:** 2019
 
