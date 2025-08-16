@@ -18,7 +18,7 @@ Enforcing robust, maintainable, scalable architecting solutions and crafting ele
 ---
 
 ## 🌟 Featured Projects
-
+- [**SmartLogging**](https://github.com/AlexApostolSource/SmartLogging): Library designed to provide advanced and customizable logging functionality for Swift projects.
 - [**NetworkLayer**](https://github.com/AlexApostolSource/NetworkLayer): Modular and testable networking architecture for iOS apps.
 - [**Register-ACO**](https://github.com/Alex-Apostol-iOS/Register-ACO): Habit tracker app using VIPER, Coordinator, Builder, and Delegation patterns.
 - [**EduWebBuilder**](https://github.com/EduSiteBuilder/EduWebBuilder): Minimal template for React + TypeScript projects with Vite and ESLint.
