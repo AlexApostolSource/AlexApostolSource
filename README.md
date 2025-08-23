@@ -18,6 +18,7 @@ Enforcing robust, maintainable, scalable architecting solutions and crafting ele
 ---
 
 ## 🌟 Featured Projects
+- [**SwiftInject**](https://github.com/AlexApostolSource/SwiftInject): A Swift dependency injection library for iOS and macOS applications using a clean, static API.
 - [**SmartLogging**](https://github.com/AlexApostolSource/SmartLogging): Library designed to provide advanced and customizable logging functionality for Swift projects.
 - [**NetworkLayer**](https://github.com/AlexApostolSource/NetworkLayer): Library designed to provide advanced networking for iOS/IPadOS/MacOS apps.
 - [**Register-ACO**](https://github.com/Alex-Apostol-iOS/Register-ACO): Habit tracker app using VIPER, Coordinator, Builder, and Delegation patterns.
