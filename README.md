@@ -1,15 +1,14 @@
 # Hi, I'm Alex Apostol 👋
 
 iOS Developer since 2019
-Professional Swift, UIKit, SwifUI, Objective-C, Concurrency and Reactive programming.
-Love playing with TypeScript, NodeJS, React.
+Professional Swift, UIKit, SwifUI, Objective-C, programmer.
 
 ---
 
 ## About Me
 
 I'm passionate about studying and applying the best practices in software development. 
-Enforcing robust, maintainable, scalable architecting solutions and crafting elegant iOS apps.
+Always learning and applying new design patterns, technologies, frameworks. 
 
 - 🛠 **Main software developing knowledge area:** Swift, UIKit, SwifUI, Objective-C.
 - 🎯 **Focus:** Clean architecture, clean code, GOF design principles.
@@ -22,8 +21,6 @@ Enforcing robust, maintainable, scalable architecting solutions and crafting ele
 - [**SmartLogging**](https://github.com/AlexApostolSource/SmartLogging): Library designed to provide advanced and customizable logging functionality for Swift projects.
 - [**NetworkLayer**](https://github.com/AlexApostolSource/NetworkLayer): Library designed to provide advanced networking for iOS/IPadOS/MacOS apps.
 - [**Register-ACO**](https://github.com/Alex-Apostol-iOS/Register-ACO): Habit tracker app using VIPER, Coordinator, Builder, and Delegation patterns.
-- [**EduWebBuilder**](https://github.com/EduSiteBuilder/EduWebBuilder): Minimal template for React + TypeScript projects with Vite and ESLint.
-- [**EduSiteBuilderBack**](https://github.com/AlexApostolSource/EduSiteBuilderBack): Node.js backend for educational site builder with Firebase auth, MongoDB, and Vercel deployment.
 - [**SwiftTrends**](https://github.com/AlexApostolSource/SwiftTrends): Modern Swift sample project with Property Wrappers, DynamicMemberLookup, and more.
 - [**regiserAco-Backend**](https://github.com/AlexApostolSource/regiserAco-Backend): Backend service for Register-ACO, supporting habit tracking features and integrations.
 
