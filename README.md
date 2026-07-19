@@ -23,6 +23,7 @@ Always learning and applying new design patterns, technologies, frameworks.
 - [**Register-ACO**](https://github.com/Alex-Apostol-iOS/Register-ACO): Habit tracker app using VIPER, Coordinator, Builder, and Delegation patterns.
 - [**SwiftTrends**](https://github.com/AlexApostolSource/SwiftTrends): Modern Swift sample project with Property Wrappers, DynamicMemberLookup, and more.
 - [**regiserAco-Backend**](https://github.com/AlexApostolSource/regiserAco-Backend): Backend service for Register-ACO, supporting habit tracking features and integrations.
+- [**AIContext**](https://github.com/AlexApostolSource/AIContext): Easy way to setup agenting goodies like skills prompts, in your repos via a local webapp.
 
 ---
 
